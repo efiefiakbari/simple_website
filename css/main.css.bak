@@ -2520,7 +2520,7 @@ body {
       padding: 5px 15px; }
   .navbar .navbar-nav .nav-link:not(.btn) {
     text-transform: uppercase;
-    font-size: 0.7142em;
+    font-size: 1em;
     padding: 0.5rem 0.7rem;
     line-height: 1.625rem; 
 	font-family: B titr, sans-serif, sans-serif, sans-serif;}
