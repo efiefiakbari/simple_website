@@ -2522,7 +2522,8 @@ body {
     text-transform: uppercase;
     font-size: 0.7142em;
     padding: 0.5rem 0.7rem;
-    line-height: 1.625rem; }
+    line-height: 1.625rem; 
+	font-family: B titr, sans-serif, sans-serif, sans-serif;}
     .navbar .navbar-nav .nav-link:not(.btn) i.fa + p,
     .navbar .navbar-nav .nav-link:not(.btn) i.now-ui-icons + p {
       margin-left: 5px; }
